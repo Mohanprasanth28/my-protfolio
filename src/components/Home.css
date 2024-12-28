@@ -1,0 +1,26 @@
+/* Home.css */
+h1 {
+    color: #4CAF50; /* Green */
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    color: #555; /* Gray */
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 20px auto;
+    width: 350px;
+    border-radius: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+ .class{
+    
+    
+    
+ }  
